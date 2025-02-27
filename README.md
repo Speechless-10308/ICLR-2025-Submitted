@@ -3,6 +3,16 @@ ICLR 2025 submitted paper list of **weakly supervised learning** (Self-supervise
 
 If you would like to add literature or have other requests, please contact [fangsy5925@gmail.com]. We will update the list of papers regularly to keep it up to date. :grin:
 
+Note:
+Since the result has been release, the result needs to be add also.
+
+🔥 means accept(oral)
+🌈 means accept(spotlight)
+✅ means accept(poster)
+❌ means reject
+💀 means withdrawn by author.
+
+
 ------
 
 ## Diffusion Model
@@ -169,16 +179,16 @@ If you would like to add literature or have other requests, please contact [fang
 
 ## Noisy Label Learning
 
-- Symmetrization of Loss Functions for Robust Training of Neural Networks in the Presence of Noisy Labels [[paper](https://openreview.net/attachment?id=i8BaiywFYx&name=pdf)]  
-- Learning Imbalanced Data with Beneficial Label Noise [[paper](https://openreview.net/attachment?id=S1IbZssS5a&name=pdf)]  
-- Mitigating Input Noise in Binary Classification: A Unified Framework with Data Augmentation [[paper](https://openreview.net/attachment?id=pTsP30MoBq&name=pdf)]  
-- Towards Better Understanding Open-Set Noise in Learning with Noisy Labels [[paper](https://openreview.net/attachment?id=EzB0n8aRqI&name=pdf)]  
-- Estimating the Conformal Prediction Threshold from Noisy Labels [[paper](https://openreview.net/attachment?id=PRKFRzOEq8&name=pdf)]  
-- Robust Prompt Learning for Vision-Language Models with Noisy Labels [[paper](https://openreview.net/attachment?id=MpuMza23aL&name=pdf)]  
-- The Role of Label Noise in the Feature Learning Process [[paper](https://openreview.net/attachment?id=TroV1cbgoG&name=pdf)]  
-- Regretful Decisions under Label Noise [[paper](https://openreview.net/attachment?id=7B9FCDoUzB&name=pdf)]  
-- Variation-Bounded Losses for Learning with Noisy Labels [[paper](https://openreview.net/attachment?id=rjcA3km2IT&name=pdf)]  
-- Learning under Temporal Label Noise [[paper](https://openreview.net/attachment?id=5o0phqAhsP&name=pdf)]  
+- ❌ Symmetrization of Loss Functions for Robust Training of Neural Networks in the Presence of Noisy Labels [[paper](https://openreview.net/attachment?id=i8BaiywFYx&name=pdf)]  
+- ❌ Learning Imbalanced Data with Beneficial Label Noise [[paper](https://openreview.net/attachment?id=S1IbZssS5a&name=pdf)]  
+- ❌ Mitigating Input Noise in Binary Classification: A Unified Framework with Data Augmentation [[paper](https://openreview.net/attachment?id=pTsP30MoBq&name=pdf)]  
+- ❌ Towards Better Understanding Open-Set Noise in Learning with Noisy Labels [[paper](https://openreview.net/attachment?id=EzB0n8aRqI&name=pdf)]  
+- ❌ Estimating the Conformal Prediction Threshold from Noisy Labels [[paper](https://openreview.net/attachment?id=PRKFRzOEq8&name=pdf)]  
+- ❌ Robust Prompt Learning for Vision-Language Models with Noisy Labels [[paper](https://openreview.net/attachment?id=MpuMza23aL&name=pdf)]  (no rebuttal what????)
+- ❌ The Role of Label Noise in the Feature Learning Process [[paper](https://openreview.net/attachment?id=TroV1cbgoG&name=pdf)]  
+- ✅ Regretful Decisions under Label Noise [[paper](https://openreview.net/attachment?id=7B9FCDoUzB&name=pdf)]  
+- 💀 Variation-Bounded Losses for Learning with Noisy Labels [[paper](https://openreview.net/attachment?id=rjcA3km2IT&name=pdf)]  
+- ✅ Learning under Temporal Label Noise [[paper](https://openreview.net/attachment?id=5o0phqAhsP&name=pdf)]  
 
 ------
 
@@ -219,11 +229,11 @@ If you would like to add literature or have other requests, please contact [fang
 
 ## Partial Label Learning
 
-- Complementary Label Learning with Positive Label Guessing and Negative Label Enhancement [[paper](https://openreview.net/attachment?id=LPRxGZ7Oax&name=pdf)]  
-- On Characterizing and Mitigating Imbalances in Multi-Instance Partial Label Learning [[paper](https://openreview.net/attachment?id=oZdaEiDBpF&name=pdf)]  
-- Noise Separation Guided Candidate Label Reconstruction for Noisy Partial Label Learning [[paper](https://openreview.net/attachment?id=TOahfjA3sP&name=pdf)]  
-- PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms [[paper](https://openreview.net/attachment?id=FtX6oAW7Dd&name=pdf)]  
-- EEG-Based Emotion Recognition via Prototype-Guided Disambiguation and Noise Augmentation in Partial-Label Learning [[paper](https://openreview.net/attachment?id=nnPkQb0Z0H&name=pdf)]  
+- ✅ Complementary Label Learning with Positive Label Guessing and Negative Label Enhancement [[paper](https://openreview.net/attachment?id=LPRxGZ7Oax&name=pdf)]  
+- ❌ On Characterizing and Mitigating Imbalances in Multi-Instance Partial Label Learning [[paper](https://openreview.net/attachment?id=oZdaEiDBpF&name=pdf)]  
+- ✅ Noise Separation Guided Candidate Label Reconstruction for Noisy Partial Label Learning [[paper](https://openreview.net/attachment?id=TOahfjA3sP&name=pdf)]  
+- 🌈 PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms [[paper](https://openreview.net/attachment?id=FtX6oAW7Dd&name=pdf)]  
+- ❌ EEG-Based Emotion Recognition via Prototype-Guided Disambiguation and Noise Augmentation in Partial-Label Learning [[paper](https://openreview.net/attachment?id=nnPkQb0Z0H&name=pdf)]  
 
 ------
 
@@ -333,7 +343,7 @@ If you would like to add literature or have other requests, please contact [fang
 - Re-Evaluating the Impact of Unseen-Class Unlabeled Data on Semi-Supervised Learning Model [[paper](https://openreview.net/attachment?id=WPsnH6875d&name=pdf)]  
 - Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery [[paper](https://openreview.net/attachment?id=qrTOtUdz4Z&name=pdf)]  
 - D2G: Debiased Learning with Distribution Guidance for Generalized Category Discovery [[paper](https://openreview.net/attachment?id=9B8o9AxSyb&name=pdf)]  
-- Towards Understanding Why FixMatch Generalizes Better Than Supervised Learning [[paper](https://openreview.net/attachment?id=25kAzqzTrz&name=pdf)]  
+- 🔥 Towards Understanding Why FixMatch Generalizes Better Than Supervised Learning [[paper](https://openreview.net/attachment?id=25kAzqzTrz&name=pdf)]  
 - HILO: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts [[paper](https://openreview.net/attachment?id=2eFq6S35iB&name=pdf)]  
 
 ------
