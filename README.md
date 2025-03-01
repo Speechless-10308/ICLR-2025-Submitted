@@ -17,20 +17,20 @@ Since the result has been release, the result needs to be add also.
 
 ## Diffusion Model
 
-- Efficient Scaling of Diffusion Transformers for Text-to-Image Generation [[paper](https://openreview.net/attachment?id=iG7qH9Kdao&name=pdf)]  
-- Unveiling Concept Attribution in Diffusion Models [[paper](https://openreview.net/attachment?id=kdriw2a8sl&name=pdf)]  
-- Ensembling Diffusion Models via Adaptive Feature Aggregation [[paper](https://openreview.net/attachment?id=e32cI4r8Eo&name=pdf)]  
-- An Efficient Framework for Crediting Data Contributors of Diffusion Models [[paper](https://openreview.net/attachment?id=9EqQC2ct4H&name=pdf)]  
-- RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models [[paper](https://openreview.net/attachment?id=txZVQRc2ab&name=pdf)]  
-- Can Diffusion Models Disentangle? A Theoretical Perspective [[paper](https://openreview.net/attachment?id=JjMRdXPpKQ&name=pdf)]  
-- Diffusion Models Need Visual Priors for Image Generation [[paper](https://openreview.net/attachment?id=WNb4P8aG66&name=pdf)]  
-- Deconstructing Denoising Diffusion Models for Self-Supervised Learning [[paper](https://openreview.net/attachment?id=9oMB6wnFYM&name=pdf)]  
-- On the Feature Learning in Diffusion Models [[paper](https://openreview.net/attachment?id=JjdU6ysnCr&name=pdf)]  
-- Direct Distributional Optimization for Provable Alignment of Diffusion Models [[paper](https://openreview.net/attachment?id=Nvw2szDdmI&name=pdf)]  
-- The Inductive Bias of Minimum-Norm Shallow Diffusion Models That Perfectly Fit the Data [[paper](https://openreview.net/attachment?id=kBLnxjuKd3&name=pdf)]  
-- Towards a Theoretical Understanding of Memorization in Diffusion Models [[paper](https://openreview.net/attachment?id=GaWYCQMAq1&name=pdf)]  
-- AutoLoRA: Autoguidance Meets Low-Rank Adaptation for Diffusion Models [[paper](https://openreview.net/attachment?id=afgqQYxTyR&name=pdf)]  
-- High-Efficient Diffusion Model Fine-Tuning with Progressive Sparse Low-Rank Adaptation [[paper](https://openreview.net/attachment?id=wGVOxplEbf&name=pdf)]  
+- ❌ Efficient Scaling of Diffusion Transformers for Text-to-Image Generation [[paper](https://openreview.net/attachment?id=iG7qH9Kdao&name=pdf)]  
+- 💀 Unveiling Concept Attribution in Diffusion Models [[paper](https://openreview.net/attachment?id=kdriw2a8sl&name=pdf)]  
+- ✅ Ensembling Diffusion Models via Adaptive Feature Aggregation [[paper](https://openreview.net/attachment?id=e32cI4r8Eo&name=pdf)]  
+- ✅ An Efficient Framework for Crediting Data Contributors of Diffusion Models [[paper](https://openreview.net/attachment?id=9EqQC2ct4H&name=pdf)]  
+- ✅ RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models [[paper](https://openreview.net/attachment?id=txZVQRc2ab&name=pdf)]  
+- 💀 Can Diffusion Models Disentangle? A Theoretical Perspective [[paper](https://openreview.net/attachment?id=JjMRdXPpKQ&name=pdf)]  
+- 💀 Diffusion Models Need Visual Priors for Image Generation [[paper](https://openreview.net/attachment?id=WNb4P8aG66&name=pdf)]  
+- ✅ Deconstructing Denoising Diffusion Models for Self-Supervised Learning [[paper](https://openreview.net/attachment?id=9oMB6wnFYM&name=pdf)]   
+- ✅ On the Feature Learning in Diffusion Models [[paper](https://openreview.net/attachment?id=JjdU6ysnCr&name=pdf)]  
+- ✅ Direct Distributional Optimization for Provable Alignment of Diffusion Models [[paper](https://openreview.net/attachment?id=Nvw2szDdmI&name=pdf)]  
+- ❌ The Inductive Bias of Minimum-Norm Shallow Diffusion Models That Perfectly Fit the Data [[paper](https://openreview.net/attachment?id=kBLnxjuKd3&name=pdf)]  
+- 💀 Towards a Theoretical Understanding of Memorization in Diffusion Models [[paper](https://openreview.net/attachment?id=GaWYCQMAq1&name=pdf)]  
+- 💀 AutoLoRA: Autoguidance Meets Low-Rank Adaptation for Diffusion Models [[paper](https://openreview.net/attachment?id=afgqQYxTyR&name=pdf)]  
+- ✅ High-Efficient Diffusion Model Fine-Tuning with Progressive Sparse Low-Rank Adaptation [[paper](https://openreview.net/attachment?id=wGVOxplEbf&name=pdf)]  
 
 ------
 
